@@ -1,7 +1,7 @@
 RegisterCommand("gps", function(source, args )
     local argString = table.concat(args, " ")
     if argString == "" or argString == " " then 
-        notify("~r~Please specify a road name after the command.")
+        notify("~r~Please specify a place after the command.")
     end
     if main[argString] then
         local coord = main[argString]
