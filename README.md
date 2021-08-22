@@ -1,4 +1,4 @@
-# Forked changes:
+# Changes:
 added all postal for [this map](https://prnt.sc/1qemukh)
 
 # PlaceToGps
