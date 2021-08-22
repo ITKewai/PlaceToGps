@@ -1,5 +1,5 @@
 # Changes:
-added all postal for [this map](https://prnt.sc/1qemukh)
++ added all postal for https://forum.cfx.re/t/ocrp-postal-and-minimap-server-side/992775
 
 # PlaceToGps
 *the title says it all*
