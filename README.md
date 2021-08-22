@@ -1,3 +1,6 @@
+# Forked changes:
+added all postal for [this map](https://prnt.sc/1qemukh)
+
 # PlaceToGps
 *the title says it all*
 ## Make any place have directions by your declaration
