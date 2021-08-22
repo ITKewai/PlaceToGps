@@ -3,6 +3,5 @@ client_scripts {
     "config.lua"
 }
 
-author "Zua"
-github "https://github.com/thatziv/placetogps"
-discord "https://discord.gg/72vGX2N"
+author "Zua - ITKewai"
+github "https://github.com/ITKewai/PlaceToGps"
